@@ -15,10 +15,8 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from tkinter import filedialog
 import mediapipe as mp
-import tkinter as tk
 from tkinter import scrolledtext
 import cohere
-
 import cv2
 import mediapipe as mp
 
@@ -195,10 +193,10 @@ import mediapipe as mp
         class GmailSender:
             def __init__(self, root):
                 self.root = root
-                self.sender_email = "amitguptaie99@gmail.com"
+                self.sender_email = "example@gmail.com"
                 self.smtp_server = "smtp.gmail.com"
                 self.port = 587  # For starttls
-                self.email_password = "tngy dmma zjks qozp"  # Replace with your app password
+                self.email_password = "**** **** **** ****"  # Replace with your app password
 
                 self.create_main_window()
                 self.create_widgets()
