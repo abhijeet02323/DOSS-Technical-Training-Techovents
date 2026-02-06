@@ -26,6 +26,7 @@ The primary objectives of this project are:
 - To build a project that reflects **industry-relevant skills and workflows**  
 - To present a single application that combines **multiple technologies working together seamlessly**
 
+
 Overall, this project serves as a **technical summary of the training journey**, highlighting the skills gained, the technologies learned, and the capability to develop real-world software systems from scratch.
 
 ---
@@ -44,4 +45,32 @@ Overall, this project serves as a **technical summary of the training journey**,
 - **Data Visualization:** Matplotlib  
 - **Operating System Support:** Linux / Cross-platform  
 
+---
+
+## 🧩 Systems Integrated in the Application Window
+
+The desktop application contains multiple systems, each accessible through the main window:
+
+- **Hand Detection System**  
+  Uses Computer Vision to detect hands and identify fingers in real time using webcam input.
+
+- **AWS EC2 Instance Controller**  
+  Allows starting and stopping of AWS EC2 instances through a graphical interface.
+
+- **Location Tracking System**  
+  Fetches and displays the user’s geographic location using IP-based location services.
+
+- **Gmail Email Sending System**  
+  Enables sending emails directly from the application using Gmail SMTP services.
+
+- **AWS EC2 Manager**  
+  Provides advanced EC2 operations such as launching, stopping, terminating, and listing instances.
+
+- **AWS S3 File Manager**  
+  Allows uploading, listing, and deleting files from an AWS S3 bucket using a GUI-based interface.
+
+- **Cohere AI Text Generation System**  
+  Integrates Generative AI to produce text responses based on user input within the application.
+
+---
 These technologies collectively demonstrate the **full technical skill set** acquired during the DOSS Technical Training Program.
