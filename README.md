@@ -1,4 +1,4 @@
-# 🚀 DOSS Technical Training Program by dhex – Final Capstone Project
+# 🚀Python-AWS-AI-MultiUtility-App
 
 ## 📖 Project Description
 
